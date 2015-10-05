@@ -6,6 +6,11 @@ Dark custom UI theme for Sublime Text 2/3. ST3 updates provided by Raynos and LO
 
 ![Nexus theme](https://github.com/EleazarCrusader/nexus-theme/raw/master/nexus-theme.png)
 
+## Modified by LOQUILLO
+![Nexus theme - modified by LOQUILLO](https://cloud.githubusercontent.com/assets/1308190/5363407/ed3d5e08-7fa9-11e4-878a-fa9c11785d0b.jpg)
+![[Nexus theme - modified by LOQUILLO](https://cloud.githubusercontent.com/assets/1308190/5363416/fb162ab4-7fa9-11e4-92a7-421d55072997.jpg)
+![[Nexus theme - modified by LOQUILLO](https://cloud.githubusercontent.com/assets/1308190/5363422/039ec0ce-7faa-11e4-8849-9d029e603d41.jpg)
+
 This theme is based on [nilium (Noel Cower) Nil Theme](https://github.com/nilium/st2-nil-theme) and he based his on the following:
 
 >[Raik Ilves's Pseudo OSX
